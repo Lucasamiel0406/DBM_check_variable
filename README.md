@@ -1,7 +1,7 @@
 ```
 - Check Variable in nutshell -
 ```
-![Check Variable Action](https://github.com/Lucasamiel0406/DBM_check_variable/blob/main/src/Screenshot_Lucasamiel0406_20201128-182814.png)
+![Check Variable Action](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-182814.png)
 <p>&nbsp;</p>
 
 
@@ -16,19 +16,19 @@ If you're having problems with this action, here is a short list of common mista
 
 
 * **1** - (Maybe, it's rare) You are using the old action with updated `bot.js` or the other way around. <p>&nbsp;</p>
-![Enable auto update bot.js](https://github.com/Lucasamiel0406/DBM_check_variable/blob/main/src/Screenshot_Lucasamiel0406_20201128-183843.png)
+![Enable auto update bot.js](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-183843.png)
 
 * **2** - You are using the message object instead of its content (Await Response doesn't store the message content, but its object) <p>&nbsp;</p>
-![You need to store the message info after storing the variable in Await Response action](https://github.com/Lucasamiel0406/DBM_check_variable/blob/main/src/Screenshot_Lucasamiel0406_20201128-184632.png)
+![You need to store the message info after storing the variable in Await Response action](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-184632.png)
 
 * **3** - You forgot the damn `'` at the beginning and/or at the end <p>&nbsp;</p>
-![Everyone does that at least 10 times](https://github.com/Lucasamiel0406/DBM_check_variable/blob/main/src/Screenshot_Lucasamiel0406_20201128-184215.png)
+![Everyone does that at least 10 times](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-184215.png)
 
 * **4** - You used a variable in the wrong way, instead of `tempVars("Something")` you did `${tempVars(" Something")}`. (But there's especific cases where you need `${}`, be careful) <p>&nbsp;</p>
-![Remove "${}" and try again](https://github.com/Lucasamiel0406/DBM_check_variable/blob/main/src/Screenshot_Lucasamiel0406_20201128-184034.png)
+![Remove "${}" and try again](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-184034.png)
 
 * **5** - You forgot something about the variable or made a typo, a `{` maybe, erased something, always check for missing stuff <p>&nbsp;</p>
-![There's always a typo playing hide 'n seek with you](https://github.com/Lucasamiel0406/DBM_check_variable/blob/main/src/Screenshot_Lucasamiel0406_20201128-184140.png)
+![There's always a typo playing hide 'n seek with you](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-184140.png)
 
 * **6** - You used DBM first before using your brain and logical reasoning. <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -43,4 +43,4 @@ If you've read this far, started using the action properly and just deleted the 
 
 Regards,
 
-me (Lucas Amiel) and all users/staff bored with the same questions. ![:seiki:](https://github.com/Lucasamiel0406/DBM_check_variable/blob/main/src/4k%20Seiki%20because%20I%20wanted.png)
+me (Lucas Amiel) and all users/staff bored with the same questions. ![:seiki:](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/4k%20Seiki%20because%20I%20wanted.png)
