@@ -43,4 +43,4 @@ If you've read this far, started using the action properly and just deleted the 
 
 Regards,
 
-me (Lucas Amiel) and all users/staff bored with the same questions. ![:seiki:](https://cdn.discordapp.com/emojis/744434779839135765.png?v=1)
+me (Lucas Amiel) and all users/staff bored with the same questions. ![:seiki:](https://github.com/Lucasamiel0406/DBM_check_variable/blob/main/src/4k%20Seiki%20because%20I%20wanted.png)
