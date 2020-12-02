@@ -30,7 +30,10 @@ If you're having problems with this action, here is a short list of common mista
 * **5** - You forgot something about the variable or made a typo, a `{` maybe, erased something, always check for missing stuff <p>&nbsp;</p>
 ![There's always a typo playing hide 'n seek with you](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-184140.png)
 
-* **6** - You used DBM first before using your brain and logical reasoning. <p>&nbsp;</p>
+* **6** - You used `'<number>'`, number related options DON'T need `'` or that can return an error/nothing. <p>&nbsp;</p>
+![Just leave the number there.](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201201-223524.png)
+
+* **7** - You used DBM first before using your brain and logical reasoning. <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
