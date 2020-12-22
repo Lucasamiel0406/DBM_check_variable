@@ -19,6 +19,7 @@ If you're having problems with this action, here is a short list of common mista
 ![Enable auto update bot.js](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-183843.png)
 
 `Solution 1:` Enable auto update bot.js, `Options > Automacally updated Bot.js`.
+
 `Solution 2:` Go to Steam, open your Library, right click DBM, go to Properties and `Check Integrity` to get up-to-date default actions.
 
 * **2** - You are using the message object instead of its content (Await Response doesn't store the message content, but its object) <p>&nbsp;</p>
@@ -40,6 +41,7 @@ If you're having problems with this action, here is a short list of common mista
 ![There's always a typo playing hide 'n seek with you](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-184140.png)
 
 `Solution 1:` There's always a typo playing hide 'n seek with you, check all your `Check Variables` and look for something missing.
+
 `Solution 2:` Do `Solution 1` again or delete the action and redo it.
 
 * **6** - You used `'<number>'`, number related options DON'T need `'` or that can return an error/nothing. <p>&nbsp;</p>
@@ -50,8 +52,11 @@ If you're having problems with this action, here is a short list of common mista
 * **7** - You used DBM first before using your brain and logical reasoning. <p>&nbsp;</p>
 
 `Solution 1:` Take a break, drink some water and go back to DBM.
+
 `Solution 2:` Use your brain.
+
 `Solution 3:` Think about what you're trying to do, what you'll check and create a mond path to understand better *what the hell* you're doing.
+
 `Solution 4:` Delete DBM and start learning again how to use a computer.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
