@@ -25,7 +25,7 @@ If you're having problems with this action, here is a short list of common mista
 * **2** - You are using the message object instead of its content (Await Response doesn't store the message content, but its object) <p>&nbsp;</p>
 ![You need to store the message info after storing the variable in Await Response action](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-184632.png)
 
-`Solution:` Sotre the Message Object using `Await Response` and then use `Store Message Info` to store the message content.
+`Solution:` Store the Message Object using `Await Response` and then use `Store Message Info` to store the message content.
 
 * **3** - You forgot the damn `'` at the beginning and/or at the end <p>&nbsp;</p>
 ![Everyone does that at least 10 times](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-184215.png)
