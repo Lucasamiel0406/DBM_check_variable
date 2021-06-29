@@ -1,4 +1,4 @@
-[Complete DBM repo coming soon.]
+~~[Complete DBM repo coming soon.]~~ Never.
 <p>&nbsp;</p>
 
 ```
@@ -32,7 +32,7 @@ If you're having problems with this action, here is a short list of common mista
 `Solution:` Store the Message Object using `Await Response` and then use `Store Message Info` to store the message content.
 <p>&nbsp;</p>
 
-* **3** - You forgot the damn `'` at the beginning and/or at the end <p>&nbsp;</p>
+* **3** - You forgot the damn `"` or `'` at the beginning and/or at the end <p>&nbsp;</p>
 ![Everyone does that at least 10 times](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/Screenshot_Lucasamiel0406_20201128-184215.png)
 
 `Solution:` The name is self-explanatory, if you want to compare text you need to treat it like a Javascript [string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String). For numbers you can check [this reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number).
@@ -64,7 +64,7 @@ If you're having problems with this action, here is a short list of common mista
 
 `Solution 2:` Use your brain.
 
-`Solution 3:` Think about what you're trying to do, what you'll check and create a mond path to understand better *what the hell* you're doing.
+`Solution 3:` Think about what you're trying to do, what you'll check and create a mind path to understand better *what the hell* you're doing.
 
 `Solution 4:` Delete DBM and start learning again how to use a computer.
 <p>&nbsp;</p>
@@ -79,4 +79,4 @@ If you've read this far, started using the action properly and just deleted the 
 
 Regards,
 
-me (Lucas Amiel) and all users/staff bored with the same questions. ![:seiki:](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/4k%20Seiki%20because%20I%20wanted.png)
+me (Lucas Amiel) and all users/staff bored with the same questions. ![:seiki:](https://raw.githubusercontent.com/Lucasamiel0406/DBM_check_variable/main/src/8k_Seiki_because_this_time_I_was_forced.jpeg)
